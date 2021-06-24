@@ -1,0 +1,16 @@
+body
+{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+    background-color: burlywood;
+}
+
+.navbar-dark
+{
+    background-color: rgb(135, 238, 152);
+}
+
+.footer
+{
+    background-color: cyan;
+}
